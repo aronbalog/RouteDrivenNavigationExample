@@ -1,0 +1,15 @@
+PODS:
+  - ARoute (0.0.15)
+  - SnapKit (3.1.2)
+
+DEPENDENCIES:
+  - ARoute
+  - SnapKit
+
+SPEC CHECKSUMS:
+  ARoute: deb52671f25fe721c4c44bc29e70e8bd52dd20a4
+  SnapKit: 12b24f569cb7c143acc9c22b9d91b23e7b1c84a2
+
+PODFILE CHECKSUM: 8580f54583a454a746e71137fdb151443fcaf723
+
+COCOAPODS: 1.2.0.beta.3
